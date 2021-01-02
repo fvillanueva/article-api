@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: io.app.fiztec
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, config-kubernetes, graalvm, hibernate-validator, http-client, java, java-application, jib, junit, kubernetes, logback, lombok, management, maven, netty-server, openapi, readme, security-annotations, security-jwt, yaml]
